@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #ff6347;">Hey there! 👋</h1>
-<h1 align="center" style="color: #32cd32;">I’m Mohamed Farooq, Exploring the World of Code 🌍</h1>
+<h1 align="center" style="color: #32cd32;">I’m Mohamed Farooq</h1>
 <h3 align="center" style="color: #00bfff;">Currently Diving into Frontend & Python for DSA — Excited to Grow and Learn! 🚀</h3>
 
 <h3 align="left" style="color: #ff69b4;">🛠️ Languages and Tools:</h3>
@@ -30,7 +30,7 @@
   🔹 Python for Data Structures and Algorithms (DSA)
 </p>
 
-<h3 align="left" style="color: #ff69b4;">My Stats:</h3>
+<h3 align="left" style="color: #ff69b4;">⚡ My Coding Journey:</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=farxxq&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="farxxq" style="display: inline-block; margin-left: 20px;"/>
