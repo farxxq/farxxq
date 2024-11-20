@@ -14,7 +14,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
- <h2>Next-Gen Frontend Tools</h2>
+ <h2>Client-Side Frameworks & Libraries</h2>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
@@ -37,4 +37,5 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=farxxq&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="farxxq" style="display: inline-block; margin-left: 20px;"/>
+
 </p>
