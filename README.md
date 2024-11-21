@@ -4,10 +4,10 @@
 <img src= "https://www.icegif.com/wp-content/uploads/2022/03/icegif-588.gif" alt="Cherry Blossom" width= "100%" height= "auto"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/farxxq/" target="blank">
+<a href="https://www.linkedin.com/in/farxxq/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
 </a>
-<a href="https://instagram.com/_md._.farooq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_md._.farooq_" height="30" width="40" /></a>
+<a href="https://instagram.com/_md._.farooq_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_md._.farooq_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left" style="color: #ff69b4;">🛠️ Languages and Tools:</h3>
