@@ -2,6 +2,14 @@
 <h1 align="center" style="color: #32cd32;">I’m Mohamed Farooq</h1>
 <h3 align="center" style="color: #00bfff;">Currently Diving into Frontend & Python for DSA — Excited to Grow and Learn! 🚀</h3>
 <img src= "https://www.icegif.com/wp-content/uploads/2022/03/icegif-588.gif" alt="Cherry Blossom" width= "100%" height= "auto"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/farxxq/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/_md._.farooq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_md._.farooq_" height="30" width="40" /></a>
+</p>
+
 <h3 align="left" style="color: #ff69b4;">🛠️ Languages and Tools:</h3>
 <p align="left">
   <h2>Client-Side Technologies</h2>
@@ -30,7 +38,7 @@
 <h3 align="left" style="color: #ff6347;">📚 Currently Learning:</h3>
 <p align="left" style="color: #ffffff;">
   🔹 Frontend Development (HTML, CSS, JavaScript, React)<br>
-  🔹 Python for Data Structures and Algorithms (DSA)
+  🔹 Python and DSA
 </p>
 
 <h3 align="left" style="color: #ff69b4;">⚡ My Coding Journey:</h3>
