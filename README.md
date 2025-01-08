@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #ff6347;">Hey there! 👋</h1>
 <h1 align="center" style="color: #32cd32;">I’m Mohamed Farooq</h1>
-<h3 align="center" style="color: #00bfff;">Currently Diving into Frontend & Python for DSA — Excited to Grow and Learn! 🚀</h3>
+<h3 align="center" style="color: #00bfff;">Currently Diving into Frontend & Python for Fun — Excited to Grow and Learn! 🚀</h3>
 <img src= "https://www.icegif.com/wp-content/uploads/2022/03/icegif-588.gif" alt="Cherry Blossom" width= "100%" height= "auto"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
